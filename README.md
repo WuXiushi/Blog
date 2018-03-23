@@ -1,2 +1,2 @@
-# rsyslog
+# syslog
 描述
