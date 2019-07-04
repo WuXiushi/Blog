@@ -11,7 +11,7 @@
 《北京A类执照考试通过分享一些心得》 [原文连接](https://club.autohome.com.cn/bbs/thread/ac6b110e39c1ec7f/63906774-1.html)
 
 ## 入网验机
-TG-K2AT
+TG-K2AT 计划
 
 ## 总结
 
