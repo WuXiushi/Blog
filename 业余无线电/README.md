@@ -1,13 +1,18 @@
 
 
-# Blog 
+# 业余无线电 
 
-[所有文章](https://github.com/wuxiushi/debris/issues)
+## 网站
+[北京无线电协会](http://www.bjwxdxh.org.cn) 
+[北京市无线电运动协会](http://www.brsa.org.cn)
+[哈罗CQ火腿社区](http://www.hellocq.net)
 
-### 关于订阅
+## 执照考试
+《北京A类执照考试通过分享一些心得》 [原文连接](https://club.autohome.com.cn/bbs/thread/ac6b110e39c1ec7f/63906774-1.html)
 
-喜欢请点右上角 `star`。订阅的话，请 `watch` 按钮。
+## 入网验机
+TG-K2AT
 
-### 关于版权
+## 总结
 
-除特殊注明外：所有项目均采用 [MIT](https://opensource.org/licenses/mit-license.php) 条款授权；所有文章均采用 [Creative Commons BY-NC-ND 4.0 (自由转载-保持署名-非商用-禁止演绎)](http://creativecommons.org/licenses/by-nc-nd/4.0/deed.zh) 协议发布；所有计划均期待您的加入。
+
